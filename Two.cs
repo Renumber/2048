@@ -10,7 +10,7 @@ using System.IO;
 using System.Runtime.Serialization.Json;
 
 class Two{
-	public static int block_num = 5;
+	public static int block_num = 4;
 	public static int block_size = 45;
 	public static int margin = 5;
 	public static int padding = 15;
