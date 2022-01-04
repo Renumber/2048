@@ -28,6 +28,7 @@ class Two{
 			rank = new Rank();
 			save();
 		}
+		Console.WriteLine(form_height + "," + form_length);
 		Application.Run(new View());
 		return 0;
 	}
@@ -85,7 +86,7 @@ public class RankView : Form {
 		rankBox.KeyDown += new KeyEventHandler (this.keyDown);
 		
 		for(int i = 0; i < Two.rank.length; i++) {
-			rankBox.Items.Add((i+1) + " " + Two.rank.scores[i] + " ");
+			rankBox.Items.Add((i+1) + "등 " + Two.rank.scores[i] + " ");
 		}
 		
 		this.Controls.Add(rankBox);
