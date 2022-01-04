@@ -13,8 +13,10 @@ Two class의 block_num값을 수정하여 기본 matrix의 크기를 바꿀 수 
 
 ### 게임 오버
 ![over](https://user-images.githubusercontent.com/45874237/148058970-01dedf29-fd3c-440e-8168-c39864666d0d.png)
+
 플레이어가 더이상 블록들을 합칠 수 없다면 게임이 종료되고, 점수가 표시됩니다.
 
 ### 랭킹
 ![rank](https://user-images.githubusercontent.com/45874237/148059038-ef7d3f1a-2cd1-4180-a7c3-400edee1b311.png)
+
 게임 오버되거나 F1키를 누르면 랭킹을 확인할 수 있습니다.
