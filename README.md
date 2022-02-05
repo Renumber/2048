@@ -10,8 +10,9 @@ class Two{
 	public static int block_num = 4;
 ```
 Two class의 block_num값을 수정하여 기본 matrix의 크기를 바꿀 수 있습니다.(default 4x4) 
-#### 5x5
-![5](https://user-images.githubusercontent.com/45874237/148061604-6eedf177-a6f7-482f-868d-48aeb0220370.png)
+#### 4x4
+![image](https://user-images.githubusercontent.com/45874237/152631604-5ecce94c-eb6d-4bc6-b1f9-5fe786aa6370.png)
+
 
 #### 12x12
 ![12](https://user-images.githubusercontent.com/45874237/148061610-339da4f3-881e-474c-bd35-11f0ff8e89ac.png)
